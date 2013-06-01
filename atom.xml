@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://elandsystems.github.io/techblog/atom.xml" rel="self"/>
   <link href="http://elandsystems.github.io/techblog/"/>
-  <updated>2013-05-13T11:44:06+09:00</updated>
+  <updated>2013-06-02T00:26:23+09:00</updated>
   <id>http://elandsystems.github.io/techblog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,9 +18,16 @@
     <link href="http://elandsystems.github.io/techblog/blog/2013/05/13/fist-post/"/>
     <updated>2013-05-13T11:42:00+09:00</updated>
     <id>http://elandsystems.github.io/techblog/blog/2013/05/13/fist-post</id>
-    <content type="html"><![CDATA[<h1>Hello</h1>
+    <content type="html"><![CDATA[<p>Heroku에 Flask 설치하기</p>
 
-<h2>Hello2</h2>
+<ul>
+<li><p>flask 셋팅
+<a href="https://devcenter.heroku.com/articles/python">https://devcenter.heroku.com/articles/python</a></p></li>
+<li><p>DB 연결</p></li>
+</ul>
+
+
+<p><a href="http://blog.y3xz.com/blog/2012/08/16/flask-and-postgresql-on-heroku/">http://blog.y3xz.com/blog/2012/08/16/flask-and-postgresql-on-heroku/</a></p>
 ]]></content>
   </entry>
   
